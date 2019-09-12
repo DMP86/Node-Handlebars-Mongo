@@ -1,0 +1,32 @@
+.nav-wrapper {
+    padding: 0 2rem;
+}
+.card-action {
+    text-align: center;
+    font-size: 1.9rem
+}
+
+.mb {
+    margin-bottom: 6rem;
+}
+.centre1 {
+    text-align: center;
+}
+
+.auth {
+    padding-top: 1 rem
+}
+
+.alert {
+    text-align: center;
+    font-size: 1.4rem;
+    padding: 1 rem;
+    border-radius: 10px;
+    background: bisque;
+    color: red
+}
+
+.avatar {
+    max-width: 300px;
+    height: auto;
+  }
